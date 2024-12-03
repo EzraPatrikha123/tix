@@ -1,5 +1,6 @@
-# tix_id
+# A project of making TIX App
 
+<<<<<<< HEAD
 A new Flutter project.
 
 ## Getting Started
@@ -33,3 +34,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## My Ticket
 ![MyTicket](assets/readme/My%20Ticket.png)
+=======
+Probably fucked it up, will fix soon.
+>>>>>>> 3b5cdf539abbce226c48351d6a4363d13aa7c433
